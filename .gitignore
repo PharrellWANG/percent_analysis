@@ -115,3 +115,6 @@ venv.bak/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
+.idea/inspectionProfiles/
+.idea/vcs.xml
+.idea/
